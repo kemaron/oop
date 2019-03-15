@@ -1,11 +1,12 @@
 "use strict";
 
 function Phone(brand, price, color, screen, battery) {
-    this.color = color;
-    this.screen = screen;
-	this.battery = battery;
 	this.brand = brand;
 	this.price = price;
+	this.color = color;
+	this.screen = screen;
+	this.battery = battery;
+
 }
 
 Phone.prototype.printInfo = function() {
