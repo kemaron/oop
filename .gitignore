@@ -1,13 +1,2 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Skynet Sp. z o.o. Informacja dotycząca płatności</title><link rel="stylesheet" href="info/web.css" type="text/css"></head><body bgcolor=#F3F1F1><div class="content"><center><img src="info/logo.png"></center><font size="2"><br><center><font color=red size=2><b>PRZYPOMNIENIE<BR>Informacja dotycząca płatności</b></center></font><br>
-
-	Szanowni Państwo,<br>
-	Informujemy iż Państwa aktualne saldo wynosi -89.00 zł (w tym przeterminowane płatności -89.00 zł).<br>
-	W związku z tym prosimy o jak najszybsze uregulowanie należności  lub kontakt z naszym Biurem Obsługi Klienta w celu wyjaśnienia sprawy.<br><br>
-	<center>Indywidualny numer konta bankowego firmy Skynet to:<br>Warszawski Bank Spółdzielczy <br>89801500049903030030890000 </center><br>
-
-	Z poważaniem,<br><br>Firma Skynet Sp. z o.o.<br>
-<a href=mailto:biuro@skynet.net.pl>biuro@skynet.net.pl</a><br>
-	tel. 22 487-10-00 (pn.-pt. 9:00-17:00)<br>faks. 22 487-10-03<br><br><hr><center><font size=1>
-	Informacja wygenerowana automatycznie, po upływie minuty od naciśnięcia przycisku możliwość przeglądania 
-	stron zostanie przywrócona.<br>
-	Prosimy o terminowe wpłaty.</center><br><form action="/" method=POST name=myform><input type=hidden name=id value=5568><input type=hidden name=adres_www value=raw.githubusercontent.com><input type=hidden name=adres_strona value=/github/gitignore/master/Node.gitignore><center><button type=submit name=operacja value=odblokuj style="color: #FF0000; font-size: 16pt; font-weight: bold; width: 160px; height: 40px">Rozumiem</button></center></form><br></font></div></body></html>
+node_modules/
+.eslintrc.yml
