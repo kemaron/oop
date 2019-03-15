@@ -13,7 +13,6 @@ Phone.prototype.printInfo = function() {
 Phone.prototype.printDetails = function() {
 	console.log("Screen size is " + this.screen + ", battery has " + this.battery + " mAh.");
 }
-
 var AquarisX2 = new Phone ("BQ",1350,"black","5.65''",3100);
 
 AquarisX2.printInfo();
